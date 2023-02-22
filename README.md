@@ -1,16 +1,37 @@
-### Hi there 👋
+### 👋🏻 Hi! I'm Daria, let me present myself
 
-<!--
-**ddkozyreva/ddkozyreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩‍💻 I’m student of HSE university & School 21 (former Ecole 42), Moscow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm working on intelligent control system in research lab in HSE.
+
+- 🌱 I’m currently learning C++, algorithms and basic DevOps skills.
+
+- 💬 Languages: English (B1), Russian (native).
+
+---
+### 🛠 Languages
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+
+</div>
+
+---
+### ☎️ Contacts
+
+<div id="socials" align="center">
+<a href="https://t.me/ddkozyreva">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram"/>
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&_&logoColor=white" alt="Resume"/>
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Resume(rus)-black?style=for-the-badge&_&logoColor=white" alt="Resume_rus"/>
+</a>
+</div>
