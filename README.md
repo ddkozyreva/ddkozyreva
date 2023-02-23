@@ -1,5 +1,4 @@
-### 👋🏻 Hi! I'm Daria, let me present myself
-
+### 👋🏻 Hi!
 
 - 👩‍💻 I’m student of HSE university & School 21 (former Ecole 42), Moscow.
 
