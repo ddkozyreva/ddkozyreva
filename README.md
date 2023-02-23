@@ -3,7 +3,7 @@
 
 - 👩‍💻 I’m student of HSE university & School 21 (former Ecole 42), Moscow.
 
-- 🔭 I'm working on intelligent control system in research lab in HSE.
+- 🔭 I am engaged in the project on AI-powered hand operations control system.
 
 - 🌱 I’m currently learning C++, algorithms and basic DevOps skills.
 
