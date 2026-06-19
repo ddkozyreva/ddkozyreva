@@ -1,13 +1,6 @@
 ### 👋🏻 Hi!
 
-- 👩‍💻 I’m a student at HSE & School 21 (former Ecole 42), Moscow.
-
-- 🔭 I am engaged in the project on AI-powered hand operations control system.
-
-- 🌱 I’m currently learning DevOps, C++ and SQL.
-
-- 💬 Languages: English (B1), Russian (native).
-
+- 👩‍💻 I’m SRE
 ---
 ### 🛠 Languages and tools
 <div>
